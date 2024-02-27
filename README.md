@@ -1,1 +1,1 @@
-The pokemon data was fetched from this API (!https://dummyapi.online/api/pokemon)[dummyapi.online].
+The pokemon data was fetched from this API [dummyapi.online](https://dummyapi.online/api/pokemon).
